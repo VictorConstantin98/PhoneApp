@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca7ea71c-8328-4a41-96d7-f15b6db08bbd": {
+      "ProjectGuid": "ca7ea71c-8328-4a41-96d7-f15b6db08bbd",
+      "DisplayName": "PhoneApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

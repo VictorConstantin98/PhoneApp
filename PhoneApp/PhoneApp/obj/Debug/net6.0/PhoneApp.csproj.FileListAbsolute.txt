@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.AssemblyInfo.cs
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\bin\Debug\net6.0\PhoneApp.exe
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\bin\Debug\net6.0\PhoneApp.deps.json
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\bin\Debug\net6.0\PhoneApp.runtimeconfig.json
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\bin\Debug\net6.0\PhoneApp.dll
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\bin\Debug\net6.0\ref\PhoneApp.dll
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\bin\Debug\net6.0\PhoneApp.pdb
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.dll
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\obj\Debug\net6.0\ref\PhoneApp.dll
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.pdb
+C:\Users\Costi\source\repos\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.genruntimeconfig.cache
